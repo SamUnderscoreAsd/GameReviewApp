@@ -1,5 +1,5 @@
 # GameReviewApp
-# Backend Repository
+## Backend Repository
 https://github.com/SamUnderscoreAsd/GameReviewWebAppBackEnd
-# Frontend Repository
+## Frontend Repository
 https://github.com/SamUnderscoreAsd/GameReviewWebAppFrontEnd
